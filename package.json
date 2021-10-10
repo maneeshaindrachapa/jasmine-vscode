@@ -1,0 +1,53 @@
+{
+    "name": "jasmine",
+    "displayName": "Jasmine",
+    "description": "A dark purple theme for VS Code based on the Ayu Mirage theme",
+    "version": "0.0.1",
+    "publisher": "maneeshaindrachapa",
+    "icon": "images/logo.png",
+    "author": {
+        "name": "Maneesha Indrachapa",
+        "email": "maneeshaindrachapa@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maneeshaindrachapa/jasmine-vscode"
+    },
+    "bugs": {
+        "url": "https://github.com/maneeshaindrachapa/jasmine-vscode/issues",
+        "email": "maneeshaindrachapa@gmail.com"
+    },
+    "homepage": "https://github.com/maneeshaindrachapa/jasmine-vscode/blob/master/README.md",
+    "galleryBanner": {
+        "color": "#171c28",
+        "theme": "dark"
+    },
+    "keywords": [
+        "Themes",
+        "Dark Theme",
+        "color-theme",
+        "Jasmine"
+    ],
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "jasmine",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jasmine-color-theme.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "babel-eslint": "^10.0.3",
+        "eslint": "^6.3.0",
+        "eslint-config-prettier": "^6.2.0",
+        "prettier": "^1.18.2",
+        "vsce": "^1.66.0"
+    }
+}
