@@ -3,13 +3,13 @@
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=maneeshaindrachapa.jasmine">
-    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/maneeshaindrachapa.jasmine-vscode.svg" />
+    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/maneeshaindrachapa.jasmine.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=maneeshaindrachapa.jasmine">
-    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/maneeshaindrachapa.jasmine-vscode.svg" />
+    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/maneeshaindrachapa.jasmine.svg" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=maneeshaindrachapa.jasmine-vscode">
-    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/maneeshaindrachapa.jasmine-vscode.svg" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=maneeshaindrachapa.jasmine">
+    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/maneeshaindrachapa.jasmine.svg" />
   </a>
 </p>
 <h1 align="center">
