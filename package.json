@@ -2,7 +2,7 @@
     "name": "jasmine",
     "displayName": "Jasmine",
     "description": "A dark purple theme for VS Code based on the Ayu Mirage theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "maneeshaindrachapa",
     "icon": "images/logo.png",
     "author": {
