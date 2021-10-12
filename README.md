@@ -19,7 +19,7 @@
   A minimal, dark purple theme for VS Code.
 </p>
 
-![demo](https://raw.githubusercontent.com/maneeshaindrachapa/jasmine-vscode/master/images/demo.png)
+![demo](https://raw.githubusercontent.com/maneeshaindrachapa/jasmine-vscode/master/images/demo.jpeg)
 
 ## Installation via VS Code
 
