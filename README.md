@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="Jasmine Logo" src="https://raw.githubusercontent.com/maneeshaindrachapa/jasmine-vscode/master/images/logo.png" width="100" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=maneeshaindrachapa.jasmine">
     <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/maneeshaindrachapa.jasmine.svg" />
   </a>
@@ -11,7 +11,7 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=maneeshaindrachapa.jasmine">
     <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/maneeshaindrachapa.jasmine.svg" />
   </a>
-</p>
+</p> -->
 <h1 align="center">
   Jasmine Theme for VS Code
 </h1>
